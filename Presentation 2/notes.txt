@@ -1,0 +1,35 @@
+2 # Brain and Language
+- neurolinguistics (largely experimental)
+a. The Human Brain
+   - most complex organ
+   - contralateral fn
+   - localisation: Joseph Gall
+   - acquired aphasia: Broca's area, Wenicke's area -> lateralisation
+   - selective impairment; related to location
+   - Broca's aphasia: word-finding, syntax, inflections, fn words
+   - Wernicke's aphasia: semantic incoherence, naming, lexical errors
+   - words are an organised network of connexns
+   - anomic aphasia: word-finding
+   - auditory cortex processes SLs too; similar breakdowns in signers
+   - no connection to nonlinguistic gestures (same articulators)
+   - other cognitive faculties of aphasics intact
+   - acquired dyslexia: two types, deep and surface
+   - deep: semantically related words retrieved; fn words difficult
+   - surface: need to sound out to access
+   - split-brain: corpus callosum severed
+   - right hand: name, describe; left hand: use but not name
+   - written material from right eye can't be read aloud
+   - neurolinguistic evidence for linguistic categories (eg phonemes)
+   - left hem. sensitive to grammatical structure even w/o meaning
+   - syntax --/-- semantics
+   - further moved objects => longer response times
+   - difference types of ungramm. have diff. signatures
+   - syntactic processing is reflex-like
+b. The Modular Mind: Dissociations of Language and Cognition
+   - linguistic savants: language fine but no nonlinguistic abilities
+   - linguistic ability <=/= general intelligence
+   - SLI: no cognitive/perceptual deficits; only lang acq
+   - certain grammatical structures might be more "vulnerable"
+   - chromosomal anomalies show genetic basis of devpt
+   - SLI is genetic
+

@@ -1,0 +1,155 @@
+# Solutions
+## Pavosa
+1. The matching is:
+3  → danos
+5  → hesos
+7  → sedos
+16 → ruyez sedelos
+17 → ruyez hesos
+19 → ruyez sedos
+22 → ruyez raseos
+24 → hezzasa
+34 → hezzasa raseos
+41 → dan ruyez hesos
+48 → henez
+88 → sedos ruyez sedelos
+
+2. The translations are:
+15 → ruyez danos
+55 → henez ruyez sedos
+64 → hesos ruyez sedelos
+77 → dan hezzasa hesos
+
+3. The number system is a base-12 (duodecimal system). A number n = 12q + r is written as:
+ruyez + r if q = 1
+hezzasa + r if q = 2
+henez + r if q = 4
+(q/2) + hezzasa + r if q is any other even number
+q + ruyez + r otherwise.
+The names of the numbers are:
+3 → danos
+4 → sedelos
+5 → hesos
+7 → sedos
+10 → raseos
+
+## Copainalá Zoque
+(a) The translations are:
+cakyʌsmatih = just above the vine
+kʌmʌŋšeh = like the shadow
+ʔʌs mok = my corn
+mis ndactaʔm = your teeth
+pahsunbit = with the squash
+perolkotoyašehtaʔm = as if for the kettles
+
+(b) The translations are:
+for the chair = pokskukyotoya
+with my kettle = ʔʌs mberolpit
+just like a mountain = kocʌkšehtih
+posts = komdaʔm
+above the shadows = kʌmʌŋgʌsmʌtaʔm
+your town = mis ŋgumguy
+
+## Menominee
+(a) The translations are:
+kekēskahæq = we_{1+2} break through it by tool / we drill through it
+nepāhkenan = I cut it off / I open it by cutting
+wǣpāhpew = he begins to laugh
+
+(b) The translations are:
+I begin to eat it = newǣpahtæm
+we lay it flat by hand = kekāwenæq
+he digs a hole = tawānæhkæw
+he walks out = kǣtohnæw
+
+# Observations
+1. Copailaná Zoque
+The structure of a noun phrase is:
+possessive # root-preposition[-like/as if][-plural][-only/just]
+The following sound changes take place (within and across words):
+yk → ky
+k → g | N_ [N = m, ŋ, n]
+k → ŋg | s_
+
+t → d | N_
+t → nd | s_
+
+p → b | N_
+p → mb | s_
+
+c → nc | s_
+
+The vocabulary is as follows:
+(i) Possessives
+my = ʔʌs
+your = mis
+(ii) Nouns
+cactus = nakpat
+corn = mok
+chair = pokskuy
+kettle = perol
+mountain = kocʌk
+post = kom
+shadow = kʌmʌŋ
+sky = cap
+squash = pahsun
+tooth = tʌc
+town = kumguy
+vine = cay
+(iii) Prepositions
+with = pit
+above = kʌsmʌ
+for = kotoya
+(iv) Other
+as if/ like = šeh
+only / just = tih
+plural = taʔm
+
+2. The structure of a verb form in Menominee is:
+(person prefix) + A + B + (person suffix)
+which can be translated as "X does A_verb, B_adverb" or as "X does B_verb, A_adverb".
+
+The vocabulary is as follows:
+(i) Personal prefixes:
+I = ne-
+we_{1+2} = ke-
+he = ɸ-
+(ii) A
+A    adverb  verb
+kaw  -       fell/lay flat
+kāw  -       fall/lie down
+pīt  here    come/bring
+kēsk through break through
+pāhk off     open
+kEt  out     pry out/take out
+wǣp  -       begin
+taw  hole    -
+wack around  -
+(iii) B
+B      adverb   verb
+aha    by tool  -
+Ena    by hand  pass
+Esa    -        cut
+ānæhkæ digging  dig
+ahtæ   in mouth eat
+ohnæ   walking  walk
+āhpe   laughing laugh
+eqta   ɸ        ɸ     [placeholder]
+(iv) Personal suffixes
+For ohnæ, āhpe, and eqta:
+(I) : -m
+(we_{1+2}) : -q
+(he) : -w
+For other B:
+(I) : -n
+(we_{1+2}) : -q
+(he) : -m
+
+note: the verb coming after "begin" is considered an adverb and expressed by B.
+
+After constructing the word, the following sound changes take place:
+1. If the first syllable is ke- or ne-, the second syllable becomes long ( ̄).
+2. If the second syllable is E and:
+the first contains a, ā or E, then the second syllable becomes Ē and the first syllable loses  ̄ if it has it.
+3. If the first two syllables are still both short, the second becomes long ( ̄).
+4. The ending -aq becomes -æq.

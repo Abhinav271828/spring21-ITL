@@ -1,0 +1,66 @@
+# Solutions
+## Turkish & Tatar
+usta
+gözenek
+yɪlan
+cideʂär
+beläzek
+östendä
+men
+yumrɪ
+
+Rules:
+Turkish → Tatar
+    u → o | first syllable
+        ɪ | otherwise
+    e → i | first syllable
+        ä | otherwise
+    ü → ö | first syllable
+        e | otherwise
+    g → k | beginning of word
+        ğ | otherwise
+    ye → ci
+    o → u
+    ö → ü
+    i → e
+    b → m | word contains n
+    
+
+## Faroese
+(a) bøːva
+    knoːa
+    kvøːa
+    løːvur
+    plOava
+    skEaji
+    tOijur
+    trOuji
+
+(b) The following rules must be applied (in the same order):
+1. oy → [Oi]
+   ei → [ai]
+   ey → [Ei]
+   V → Vː | _ð | _g
+        V = e, u, ø, i, o
+   a → [Ea]
+   A → [Oa]
+   O → [Ou]
+   U → [Ou]
+
+   C → j | i_ | _i
+     → w | u_ | uː_
+     → v | _u | non-verb
+     → ɸ | otherwise
+        C = ð, g
+
+Observations:
+In the Turkish & Tatar problem:
+1. We note that /b/ in Turkish becomes /m/ in Tatar when the word contains a nasal, which shows that sounds in the vicinity can not only cause deletion or insertion of new sounds, but also alter the quality of existing sounds.
+2. Considering the meanings, the fact that many of the Turkish/Tatar words require an entire phrase in English (sometimes a clause, e.g. "if I work"), it is reasonable to assume that these languages have a high morphemes per word ratio.
+3. Some of the sound change processes are dependent on the position of the sound (e.g. u → o in the first syllable, u → ɪ otherwise; g → k in the beginning of the word, g → ğ otherwise). This might mean that there is some difference (in either tone or stress) between the first syllable and the rest.
+
+In the Faroese problem:
+There are several examples of consonants getting weakened when between two vowels, from stops or fricatives to approximants (e.g. [ð] → [j]).
+In the rules for Faroese pronunciation, we notice a "pecking order" among the rules. That is, one rule may create the environment for another to act, but if the latter has already applied, it cannot make the change again. Conversely, if the latter comes later in the order, the change occurs (e.g. rules 3 and 9 above).
+We also see that it matters for the pronunciation whether a word is a verb or not; in other words, the morphology affects the phonology. This occurs in Malayalam too: in rapid speech, the infinitive ending -uka of verbs is often pronounced /-ua/ (Kannur dialect), e.g. ceyyuka "to do" /t͡ʃɛjːua/; however, nouns ending with -uka do not undergo this change, e.g. āvipuka "steam" /aːvipugə/. 
+
